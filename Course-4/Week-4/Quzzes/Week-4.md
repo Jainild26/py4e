@@ -92,4 +92,5 @@ _Answer is 1) It makes sure that if a particular title is already in the table, 
     3) Two foreign keys
     4) Data items specific to the many-to-many relationship
 
-  _Answer is 3) Two foreign keys_
+  _Answer is 1) An AUTOINCREMENT primary key column
+              
